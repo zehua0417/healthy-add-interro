@@ -1,0 +1,15 @@
+interro:
+ get:
+  summary: 症状询问
+ post:
+  summary: 保存症状询问
+interro2:
+ field:
+  type: 类别
+  project: 体检项目
+  code: 项目编号
+  degree: 危及程度
+  coursetime: 病程时间
+  personid: 体检人编号
+  createid: 创建人-体检医生
+  createname: 检查医生
